@@ -250,7 +250,7 @@ defaults:
   # _profile
   - scope:
       path: ""
-      type: people
+      type: profiles
     values:
       layout: profile
       author_profile: false
