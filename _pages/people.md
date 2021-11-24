@@ -2,15 +2,16 @@
 title: People
 permalink: /people/
 ---
-
+<!--
 {% assign people_sorted = site.people | sort: 'joined' %}
 {% assign role_array = "pi|postdoc|gradstudent|researchstaff|visiting|others|alumni" | split: "|" %}
 
 {% for role in role_array %}
 
 {% assign people_in_role = people_sorted | where: 'position', role %}
-
+-->
 <!-- Skip section if there's nobody -->
+<!--
 {% if people_in_role.size == 0 %}
   {% continue %}
 {% endif %}
@@ -53,7 +54,7 @@ permalink: /people/
 <hr>
 
 {% else %}
-
+-->
 <br>
 
 | Who are they | When were they here | Where they went |

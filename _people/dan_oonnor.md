@@ -1,5 +1,4 @@
 ---
-collection: profiles
 name: Daniel H. O'Connor
 position: pi
 

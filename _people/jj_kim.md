@@ -1,5 +1,4 @@
 ---
-collection: profiles
 name: JJ Kim
 position: gradstudent
 avatar: bio-photo.jpg
