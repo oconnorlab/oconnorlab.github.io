@@ -1,8 +1,6 @@
 ---
-layout: archive
-title: "People"
+title: People
 permalink: /people/
-author_profile: true
 ---
 
 {% assign people_sorted = site.people | sort: 'joined' %}
@@ -57,10 +55,10 @@ author_profile: true
 {% else %}
 
 <br>
-<!--
+
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
--->
+
 
 {% endif %}
 {% endfor %}
