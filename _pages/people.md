@@ -47,10 +47,9 @@ There are people in this lab.
     {% if profile.position contains role %}
       <div class="list-item-people">
         <p class="list-post-title">
-          <a> testing </a>
-          <!--
           {% if profile.avatar %}
-            <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{site.baseurl}}/images/people/{{profile.avatar}}"></a>
+            <a href="{{ site.baseurl }}{{ profile.url }}" rel="permalink"><img class="profile-thumbnail" src="{{site.baseurl}}/images/people/{{profile.avatar}}"></a>
+          <!--
           {% else %}
             <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="http://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg"></a>
           {% endif %}
@@ -67,7 +66,9 @@ There are people in this lab.
 {% endif %}
 {% endfor %}
 
-<br>
 
-| Who are they | When were they here | Where they went |
-| :------------- |:-------------| :-----------|
+| Entry            | Item   |                                                              |
+| --------         | ------ | ------------------------------------------------------------ |
+| [John Doe](#)    | 2016   | Description of the item in the list                          |
+| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
+| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
