@@ -18,7 +18,6 @@ There are people in this lab.
 
 <!-- Skip section if there's nobody -->
 {% if people_in_role.size == 0 %}
-  <h2>Nobody home?</h2>
   {% continue %}
 {% endif %}
 
@@ -49,12 +48,10 @@ There are people in this lab.
         <p class="list-post-title">
           {% if profile.avatar %}
             <a href="{{ site.baseurl }}{{ profile.url }}" rel="permalink"><img class="profile-thumbnail" src="{{site.baseurl}}/images/people/{{profile.avatar}}"></a>
-          <!--
           {% else %}
             <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="http://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg"></a>
           {% endif %}
           <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
-          -->
         </p>
       </div>    
     {% endif %}
