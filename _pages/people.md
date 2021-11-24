@@ -18,6 +18,7 @@ There are people in this lab.
 
 <!-- Skip section if there's nobody -->
 {% if people_in_role.size == 0 %}
+<h2> Nobody home? </h2>
   {% continue %}
 {% endif %}
 
