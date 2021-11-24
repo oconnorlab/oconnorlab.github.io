@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "O'Connor Lab"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "O'Connor Lab"
-description              : &description "O'Connor Lab @ Hopkins"
+name                     : &name "Your Name"
+description              : &description "personal description"
 url                      : https://oconnorlab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "oconnorlab/oconnorlab.github.io"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "O'Connor Lab"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Neural circuits for touch perception"
-  location         : "Baltimore, MD"
-  employer         :  "Department of Neuroscience <br> The Zanvyl Krieger Mind/Brain Institute <br> Johns Hopkins University"
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=96YQhUgAAAAJ&hl=en"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
+  employer         :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "occonorlab"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -187,9 +187,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  profiles:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -201,10 +198,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: false
-      comments: false
-      share: false
-      related: false
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _pages
   - scope:
       path: ""
@@ -219,8 +216,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: false
-      comments: false
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
@@ -228,8 +225,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: false
-      comments: false
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
@@ -237,8 +234,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: false
-      comment: false
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
@@ -246,14 +243,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: false
-  # _profile
-  - scope:
-      path: ""
-      type: people
-    values:
-      layout: profile
-      author_profile: false
+      share: true
 
 # Sass/SCSS
 sass:
