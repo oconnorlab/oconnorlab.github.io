@@ -68,7 +68,7 @@ Nature Neuroscience, 2016. ([Article](https://doi.org/10.1038/nn.4183))
 
 ## 2015
 _Low-noise encoding of active touch by layer 4 in the somatosensory cortex._<br>
-Hires SA, Gutnisky D, Yu J, O’Connor DH and Svoboda K.<br>  
+Hires SA, Gutnisky D, Yu J, O’Connor DH and Svoboda K.<br>
 eLife, 2015. ([Article](https://doi.org/10.7554/eLife.06619.001)) 
 
 ## 2014
@@ -77,11 +77,11 @@ Yang H, O’Connor DH. <br>
 Nature Neuroscience, 2014. ([Article](https://doi.org/10.1038/nn.3847)) 
 
 _Structural plasticity within the barrel cortex during initial phases of whisker-dependent learning._<br>
-Kuhlman SJ*, O’Connor DH*, Fox K and Svoboda K.<br> 
+Kuhlman SJ*, O’Connor DH*, Fox K and Svoboda K.<br>
 Journal of Neuroscience, 2014. ([Article](https://doi.org/10.1523/JNEUROSCI.4919-12.2014)) 
 
 _Procedures for behavioral experiments in head-fixed mice._<br>
-Guo ZV, Hires SA, Li N, O’Connor DH, Komiyama T, Ophir E, Huber D, Bonardi C, Morandell K, Gutnisky D, Peron S, Xu N-L, Cox J and Svoboda K. <br> 
+Guo ZV, Hires SA, Li N, O’Connor DH, Komiyama T, Ophir E, Huber D, Bonardi C, Morandell K, Gutnisky D, Peron S, Xu N-L, Cox J and Svoboda K. <br>
 PLoS ONE, 2014. ([Article](https://doi.org/10.1371/journal.pone.0088678)) 
 
 ## 2013
@@ -99,15 +99,15 @@ Xu N-L, Harnett MT, Williams SR, Huber D, O’Connor DH, Svoboda K and Magee JC.
 Nature, 2012. ([Article](https://doi.org/10.1038/nature11601)) 
 
 _Activity in motor-sensory projections reveals distributed coding in somatosensation._<br>
-Petreanu L, Gutnisky DA, Huber D, Xu N-L, O’Connor DH, Tian L, Looger LL and Svoboda K. <br>  
+Petreanu L, Gutnisky DA, Huber D, Xu N-L, O’Connor DH, Tian L, Looger LL and Svoboda K. <br>
 Nature, 2012. ([Article](https://doi.org/10.1038/nature11321)) 
 
 _Automated tracking of whiskers in videos of head fixed mice._<br>
-Clack NG, O’Connor DH, Huber D, Petreanu L, Hires SA, Peron S, Svoboda K and Myers EW.<br>  
+Clack NG, O’Connor DH, Huber D, Petreanu L, Hires SA, Peron S, Svoboda K and Myers EW.<br>
 PLoS Computational Biology, 2012. ([Article](https://doi.org/10.1371/journal.pcbi.1002591)) 
 
 _Multiple dynamic representations in the motor cortex during sensorimotor learning._<br>
-Huber D, Gutnisky DA, Peron S, O’Connor DH, Wiegert JS, Tian L, Oertner TG, Looger LL and Svoboda K.<br>  
+Huber D, Gutnisky DA, Peron S, O’Connor DH, Wiegert JS, Tian L, Oertner TG, Looger LL and Svoboda K.<br>
 Nature, 2012. ([Article]( https://doi.org/10.1038/nature11039)) 
 
 ## 2011
@@ -117,15 +117,15 @@ In, Imaging in Neuroscience: A Laboratory Manual. 2011.
 
 ## 2010
 _Neural activity in barrel cortex underlying vibrissa-based object localization in mice._<br>
-O’Connor DH, Peron SP, Huber D and Svoboda K.<br>  
+O’Connor DH, Peron SP, Huber D and Svoboda K.<br>
 Neuron, 2010. ([Article](https://doi.org/10.1016/j.neuron.2010.08.026)) 
 
 _Learning-related fine-scale specificity imaged in motor cortex circuits of behaving mice._<br> 
-Komiyama T, Sato TR, O’Connor DH, Zhang Y-X, Huber D, Hooks BM, Gabitto M and Svoboda K. <br>  
+Komiyama T, Sato TR, O’Connor DH, Zhang Y-X, Huber D, Hooks BM, Gabitto M and Svoboda K. <br>
 Nature, 2010. ([Article](https://doi.org/10.1038/nature08897)) 
 
 _Vibrissa-based object localization in head-fixed mice._<br>
-O’Connor DH, Clack NG, Huber D, Komiyama T, Myers EW and Svoboda K.<br>  
+O’Connor DH, Clack NG, Huber D, Komiyama T, Myers EW and Svoboda K.<br>
 Journal of Neuroscience, 2010. ([Article](https://doi.org/10.1523/JNEUROSCI.3762-09.2010)) 
 
 ## 2009
@@ -158,7 +158,7 @@ O’Connor DH, Wittenberg GM and Wang SS-H.<br>
 PNAS, 2005. ([Article](https://doi.org/10.1073/pnas.0502332102)) 
 
 _Dissection of bidirectional synaptic plasticity into saturable unidirectional processes._<br>
-O’Connor DH, Wittenberg GM and Wang SS-H.<br> 
+O’Connor DH, Wittenberg GM and Wang SS-H.<br>
 Journal of Neurophysiology, 2005. ([Article](https://doi.org/10.1152/jn.00047.2005)) 
 
 _Attentional modulation in the human lateral geniculate nucleus and pulvinar._<br>
@@ -166,27 +166,27 @@ Kastner S, Schneider KA and O’Connor DH. <br>
 Neurobiology of Attention, Elsevier Academic Press, 2005. ([Article](https://doi.org/10.1016/B978-012375731-9/50076-8)) 
 
 _Bidirectional semantic priming in the attentional blink._<br>
-Potter MC, Dell’Acqua R, Pesciarelli F, Job R, Peressotti F and O’Connor DH.<br> 
+Potter MC, Dell’Acqua R, Pesciarelli F, Job R, Peressotti F and O’Connor DH.<br>
 Psychonomic Bulletin & Review, 2005. ([Article](https://doi.org/10.3758/BF03193788)) 
 
 ## 2004
 _Functional imaging of the human lateral geniculate nucleus and pulvinar._<br>
-Kastner S, O’Connor DH, Fukui MM, Fehd HM, Herwig U and Pinsk MA.<br> 
+Kastner S, O’Connor DH, Fukui MM, Fehd HM, Herwig U and Pinsk MA.<br>
 Journal of Neurophysiology, 2004. ([Article](https://doi.org/10.1152/jn.00553.2003)) 
 
 _Pictorial and conceptual representation of glimpsed pictures._<br>
-Potter MC, Staub A and O’Connor DH.<br> 
+Potter MC, Staub A and O’Connor DH.<br>
 Journal of Experimental Psychology: Human Perception & Performance, 2004. ([Article](https://doi.org/10.1037/0096-1523.30.3.478)) 
 
 # 2002
 _Attention modulates responses in the human lateral geniculate nucleus._<br>
-O’Connor DH, Fukui MM, Pinsk MA and Kastner S. <br> 
+O’Connor DH, Fukui MM, Pinsk MA and Kastner S. <br>
 Nature Neuroscience, 2002. ([Article](https://doi.org/10.1038/nn957)) 
 
 _The time course of competition for attention: Attention is initially labile._<br>
-Potter MC, Staub A and O’Connor DH.<br>  
+Potter MC, Staub A and O’Connor DH.<br>
 Journal of Experimental Psychology: Human Perception & Performance, 2002. ([Article](https://doi.org/10.1037/0096-1523.28.5.1149)) 
 
 _Recognition memory for briefly-presented pictures: The time course of rapid forgetting._<br>
-Potter MC, Staub A, Rado J and O’Connor DH.<br>  
+Potter MC, Staub A, Rado J and O’Connor DH.<br>
 Journal of Experimental Psychology: Human Perception & Performance, 2002. ([Article](https://doi.org/10.1037/0096-1523.28.5.1163)) 
