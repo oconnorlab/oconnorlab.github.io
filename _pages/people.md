@@ -50,7 +50,7 @@ redirect_from:
             <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="http://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg"></a>
           {% endif %}
           <br>
-          <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
+          <a class="name" href="{{ site.baseurl }}{{ profile.url }}"><u>{{ profile.name }}</u></a>
         </p>
       </div>    
     {% endif %}
