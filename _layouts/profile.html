@@ -54,10 +54,10 @@ layout: default
 
       <section class="page__content" itemprop="text">
         {% if page.avatar %}<img width="300" src="/images/people/{{page.avatar}}" data-action="zoom">{% endif %}
-        {% if page.email} <i class="fa fa-envelope-o"></i> {{ page.email}}{% endif %}
-        {% if page.building} <i class="fa fa-building"></i> {{ page.building}}{% endif %}
-        {% if page.googlescholar} <i class="fa fa-bar-chart"></i>  <a href="{{ page.googlescholar }}">google scholar</a>{% endif %}
-        {% if page.homepage} <a href="{{ page.homepage }}">Home Page</a>{% endif %}
+        {% if page.email %} <i class="fa fa-envelope-o"></i> {{ page.email}}{% endif %}
+        {% if page.building %} <i class="fa fa-building"></i> {{ page.building}}{% endif %}
+        {% if page.googlescholar %} <i class="fa fa-bar-chart"></i>  <a href="{{ page.googlescholar }}">google scholar</a>{% endif %}
+        {% if page.homepage %} <a href="{{ page.homepage }}">Home Page</a>{% endif %}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
