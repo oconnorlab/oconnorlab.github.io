@@ -65,8 +65,8 @@ There are people in this lab.
 {% endfor %}
 
 
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+| Alumni           | When were they here  | Where are they now                             |
+| --------         | -------------------- | ---------------------------------------------- |
+| [John Doe](#)    | 2016                 | Description of the item in the list            |
+| [Jane Doe](#)    | 2019                 | Description of the item in the list            |
+| [Doe Doe](#)     | 2022                 | Description of the item in the list            |
