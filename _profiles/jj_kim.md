@@ -7,7 +7,7 @@ joined: 2021
 permalink: /profiles/jj_kim
 ---
 
-<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+
 
 ### Contact
 

@@ -16,4 +16,4 @@ For postdocs
 
 For grad students
 ------
-Send an email to Dan to discuss research interests and set up rotations! Our lab is part of the Johns Hopkins [Neuroscience Traing Program](https://neuroscience.jhu.edu/graduate).
+Send an email to Dan to discuss research interests and set up rotations! Our lab is part of the Johns Hopkins [Neuroscience Training Program](https://neuroscience.jhu.edu/graduate).

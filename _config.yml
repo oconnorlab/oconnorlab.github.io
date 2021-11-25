@@ -248,6 +248,13 @@ defaults:
       author_profile: true
       share: false
   # _profile
+    - scope:
+      path: ""
+      type: profiles
+    values:
+      layout: profile
+      author_profile: false
+      share: false
 
 # Sass/SCSS
 sass:
