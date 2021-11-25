@@ -54,10 +54,10 @@ layout: default
 
       <section class="page__content" itemprop="text">
         {% if page.avatar %}<p><img width="300" src="/images/people/{{page.avatar}}" data-action="zoom"></p>{% endif %}
-        {% if page.email %} <p><i class="fa fa-envelope-o"></i> '{{ page.email}}'</p>{% endif %}
-        {% if page.building %} <p><i class="fa fa-building"></i></p> {{ page.building}}</p>{% endif %}
-        {% if page.googlescholar %}<p><i class="fa fa-bar-chart"></i><a href="{{ page.googlescholar }}"><u>google scholar</u></a></p> {% endif %}
-        {% if page.homepage %}<p><a href="{{ page.homepage }}"><u>Home Page</u></a></p>{% endif %}
+        {% if page.email %} <p><i class="fa fa-envelope-o"></i><code class="language-plaintext highlighter-rouge">{{ page.email}}</code> </p>{% endif %}
+        {% if page.building %} <p><i class="fa fa-building"></i> {{ page.building}}</p>{% endif %}
+        {% if page.googlescholar %}<p><i class="fa fa-bar-chart"></i><a href="{{ page.googlescholar }}">google scholar</a></p> {% endif %}
+        {% if page.homepage %}<p><a href="{{ page.homepage }}">Home Page</a></p>{% endif %}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
