@@ -5,18 +5,11 @@ avatar: bio-photo.jpg
 twitter: jotajotakim
 joined: 2021
 permalink: /profiles/jj_kim
+email: jkim605@jhmi.edu
+building: 250 Krieger 
+googlescholar: https://scholar.google.com/citations?user=n04bDbsAAAAJ&hl=en
+homepage: http://jeongjunjjkim.github.io
 ---
-
-
-
-### Contact
-
-<i class="fa fa-envelope-o"></i>  `jkim605@jhmi.edu`<br>
-<i class="fa fa-building"></i> 250 Krieger <br>
-<i class="fa fa-bar-chart"></i> [google scholar](https://scholar.google.com/citations?user=n04bDbsAAAAJ&hl=en) <br>
- [Homepage](http://jeongjunjjkim.github.io)
-
-<hr>
 
 ### Bio
 
