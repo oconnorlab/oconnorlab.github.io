@@ -7,8 +7,6 @@ redirect_from:
 ---
 {% include base_path %}
 
-There are people in this lab.
-
 {% assign people_sorted = site.profiles | sort: 'joined' %}
 {% assign role_array = "pi|postdoc|gradstudent|researchstaff|visiting|others|alumni" | split: "|" %}
 

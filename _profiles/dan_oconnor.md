@@ -2,7 +2,6 @@
 name: Daniel H. O'Connor
 position: pi
 permalink: /profiles/dan_oconnor
-avatar: bio-photo.jpg
 joined: 2013
 
 ---
