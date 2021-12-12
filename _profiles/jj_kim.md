@@ -1,7 +1,7 @@
 ---
 name: JJ Kim
 position: gradstudent
-avatar: jj_kim.jpg
+avatar: JJ_Kim.jpg
 twitter: jotajotakim
 joined: 2021
 permalink: /profiles/jj_kim
