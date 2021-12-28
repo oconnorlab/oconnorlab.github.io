@@ -65,6 +65,9 @@ redirect_from:
 
 | Alumni           | When were they here  | Where are they now                             |
 | --------         | -------------------- | ---------------------------------------------- |
-| [John Doe](#)    | 2016                 | Description of the item in the list            |
-| [Jane Doe](#)    | 2019                 | Description of the item in the list            |
-| [Doe Doe](#)     | 2022                 | Description of the item in the list            |
+| Kyle S. Severson | 7/2013-11/2018 | Neuroscience Program Ph.D. student; currently postdoc at Duke University |
+| Erik A. Finkel   | 9/2014-5/2019  | Neuroscience Program Ph.D. student; currently Data Scientist 1 at Leaseable |
+| Duo Xu           | 6/2015-5/2020  | Neuroscience Program Ph.D. student; currently postdoc at UCSF |
+| Hongdian Yang, PhD | 7/2012-6/2016 | postdoc; currently Assistant Professor in Dept. of Cell Biology and Neuroscience at UC Riverside, Riverside, CA. |
+| Sung Eun Kwon, PhD | 10/2012-12/2017 | postdoc; currently Assistant Professor in Dept. of Molecular, Cellular and Developmental Biology at Univ. of Michigan, Ann Arbor. |
+|  Genki Minamisawa, PhD | 7/2013-7/2019 | postdoc; currently Research Scientist at RIKEN Center for Brain Science, Japan. |
