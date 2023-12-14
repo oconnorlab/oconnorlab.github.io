@@ -14,6 +14,10 @@ author_profile: true
 
 ## 2023
 
+_Myomatrix arrays for high-definition muscle recording._<br>
+Chung B, ... Kim JJ, Olson WP, O'Connor DH, ..., Sober SJ. <br>
+eLife, 2023.([Article](https://doi.org/10.7554/eLife.88551.2))
+
 _Trigeminal innervation and tactile responses in mouse tongue._<br>
 Zhang L, Nagel M, Olson WP, Chesler AT, O'Connor DH. <br>
 bioRxiv, 2023.([Article](https://doi.org/10.1101/2023.08.17.553449))
